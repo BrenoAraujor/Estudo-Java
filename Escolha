@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class Escolha {
+    public static void main(String[]args){
+        Scanner resp = new Scanner(System.in);
+    int escolhs1;
+    String pe;
+
+    pe = resp.nextLine();
+    switch(pe){
+        case E :
+        
+        break;
+
+
+
+
+
+
+    }
+
+
+
+
+    }
+}
